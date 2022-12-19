@@ -16,7 +16,7 @@ const n1 = +prompt("Sayi1");
 const n2 = +prompt("Sayi2");
 const n3 = +prompt("Sayi3");
 
-//* 1. Yöntem
+//* 1. Yöntem  - En büyük sayı bulma
 // if(n1>=n2 && n1>n3){
 //     console.log(`${n1} en büyük sayidir`);
 // }
@@ -27,7 +27,7 @@ const n3 = +prompt("Sayi3");
 //     console.log(`${n3} en büyük sayidir`)
 // } 
 
-//* 2.Yöntem
+//* 2.Yöntem - En büyük sayı bulma
 let enBuyuk = n1;
 
 if ( n2>=enBuyuk){
